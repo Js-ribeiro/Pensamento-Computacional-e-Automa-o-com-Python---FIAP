@@ -1,0 +1,11 @@
+print("ola mundo ")
+print(7+4)
+print("7"+"8")
+nome = input(" digite seu nome:")
+print(nome)
+idade = int(input("coloque sua idade:") )
+print(idade)
+peso = float(input("coloque seu peso:"))
+print(peso)
+
+print(f"Olá {nome} sua idade {idade} e seu  peso {peso}")
